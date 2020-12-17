@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatcherHangfireDemo", "WatcherHangfireDemo.csproj", "{0BE70B30-DF54-48BB-BE6B-682EFBBC914F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE70B30-DF54-48BB-BE6B-682EFBBC914F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE70B30-DF54-48BB-BE6B-682EFBBC914F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE70B30-DF54-48BB-BE6B-682EFBBC914F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE70B30-DF54-48BB-BE6B-682EFBBC914F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3240DC37-2979-415C-9805-B75C4E0A0FDA}
+	EndGlobalSection
+EndGlobal
